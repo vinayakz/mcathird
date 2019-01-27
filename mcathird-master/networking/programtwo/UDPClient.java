@@ -3,10 +3,7 @@ import java.io.*;
 import java.util.*;
 
 
-/**
- *
- * @author jaseem
- */
+
 public class UDPClient {
     public static void main(String[] args){
         DatagramSocket datagramSocket;

@@ -2,10 +2,7 @@ import java.net.*;
 import java.io.*;
 import java.util.*;
 
-/**
- *
- * @author jaseem
- */
+
 
 class ChatClient{
     public static void main(String[] args){

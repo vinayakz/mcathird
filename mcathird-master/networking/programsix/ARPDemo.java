@@ -2,10 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.net.*;
 
-/**
- *
- * @author jaseem
- */
+
 public class ARPDemo {
 
     public static void main(String[] args) {

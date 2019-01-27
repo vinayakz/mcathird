@@ -1,10 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-/**
- *
- * @author jaseem
- */
+
 class RCEServer {
 
     public static void main(String[] args) {

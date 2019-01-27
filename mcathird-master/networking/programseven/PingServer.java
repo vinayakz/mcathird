@@ -1,10 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-/**
- *
- * @author jaseem
- */
+
 public class PingServer {
     public static void main(String[] args){
         DatagramSocket sock;

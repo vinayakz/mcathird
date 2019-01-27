@@ -2,10 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-/**
- *
- * @author jaseem
- */
+
 public class RetrieveData {
 
     public static void main(String[] args) {

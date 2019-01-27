@@ -1,10 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-/**
- *
- * @author jaseem
- */
+
 public class UDPServer{
     
     public static void main(String[] args) {
