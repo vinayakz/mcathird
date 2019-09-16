@@ -1,0 +1,4 @@
+E:\c#\Fifteen\Fifteen\bin\Debug\Fifteen.exe
+E:\c#\Fifteen\Fifteen\bin\Debug\Fifteen.pdb
+E:\c#\Fifteen\Fifteen\obj\x86\Debug\Fifteen.exe
+E:\c#\Fifteen\Fifteen\obj\x86\Debug\Fifteen.pdb

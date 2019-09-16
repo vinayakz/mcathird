@@ -1,0 +1,4 @@
+E:\c#\Eighteen\Eighteen\bin\Debug\Eighteen.exe
+E:\c#\Eighteen\Eighteen\bin\Debug\Eighteen.pdb
+E:\c#\Eighteen\Eighteen\obj\x86\Debug\Eighteen.exe
+E:\c#\Eighteen\Eighteen\obj\x86\Debug\Eighteen.pdb

@@ -1,0 +1,6 @@
+E:\c#\Sixteen\Sixteen\bin\Debug\Sixteen.exe
+E:\c#\Sixteen\Sixteen\bin\Debug\Sixteen.pdb
+E:\c#\Sixteen\Sixteen\obj\x86\Debug\Sixteen.exe
+E:\c#\Sixteen\Sixteen\obj\x86\Debug\Sixteen.pdb
+C:\Users\CA161055\Documents\Visual Studio 2010\Projects\c#\Sixteen\Sixteen\obj\x86\Debug\Sixteen.exe
+C:\Users\CA161055\Documents\Visual Studio 2010\Projects\c#\Sixteen\Sixteen\obj\x86\Debug\Sixteen.pdb

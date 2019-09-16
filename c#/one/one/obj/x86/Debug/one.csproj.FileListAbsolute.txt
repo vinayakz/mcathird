@@ -1,0 +1,4 @@
+E:\c#\one\one\bin\Debug\one.exe
+E:\c#\one\one\bin\Debug\one.pdb
+E:\c#\one\one\obj\x86\Debug\one.exe
+E:\c#\one\one\obj\x86\Debug\one.pdb

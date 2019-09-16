@@ -1,0 +1,7 @@
+E:\c#\seven\seven\bin\Debug\seven.exe
+E:\c#\seven\seven\bin\Debug\seven.pdb
+E:\c#\seven\seven\obj\x86\Debug\seven.Form1.resources
+E:\c#\seven\seven\obj\x86\Debug\seven.Properties.Resources.resources
+E:\c#\seven\seven\obj\x86\Debug\seven.csproj.GenerateResource.Cache
+E:\c#\seven\seven\obj\x86\Debug\seven.exe
+E:\c#\seven\seven\obj\x86\Debug\seven.pdb

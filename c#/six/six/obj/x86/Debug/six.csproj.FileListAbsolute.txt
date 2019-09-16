@@ -1,0 +1,4 @@
+E:\c#\six\six\bin\Debug\six.exe
+E:\c#\six\six\bin\Debug\six.pdb
+E:\c#\six\six\obj\x86\Debug\six.exe
+E:\c#\six\six\obj\x86\Debug\six.pdb

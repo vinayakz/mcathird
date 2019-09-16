@@ -1,0 +1,4 @@
+E:\c#\nine\nine\bin\Debug\nine.exe
+E:\c#\nine\nine\bin\Debug\nine.pdb
+E:\c#\nine\nine\obj\x86\Debug\nine.exe
+E:\c#\nine\nine\obj\x86\Debug\nine.pdb

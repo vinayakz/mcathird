@@ -1,0 +1,4 @@
+E:\c#\five\five\bin\Debug\five.exe
+E:\c#\five\five\bin\Debug\five.pdb
+E:\c#\five\five\obj\x86\Debug\five.exe
+E:\c#\five\five\obj\x86\Debug\five.pdb

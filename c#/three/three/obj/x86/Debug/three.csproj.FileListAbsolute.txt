@@ -1,0 +1,4 @@
+E:\c#\three\three\bin\Debug\three.exe
+E:\c#\three\three\bin\Debug\three.pdb
+E:\c#\three\three\obj\x86\Debug\three.exe
+E:\c#\three\three\obj\x86\Debug\three.pdb
